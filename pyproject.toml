@@ -1,0 +1,10 @@
+[project]
+name = "maths-to-speech"
+version = "0.1.0"
+description = "Turn a plain-text maths expression into words a narrator can read aloud"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
