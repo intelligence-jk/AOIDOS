@@ -34,7 +34,11 @@ def tokenise(text: str) -> list[str]:
 
 
 def _number(t: str) -> str:
-    return t.replace(".", " point ")
+    """Decimals are read digit by digit after the point: 2.57 becomes 2 point 5 7."""
+    if "." not in t:
+        return t
+    whole, frac = t.split(".", 1)
+    return f"{whole} point " + " ".join(frac)
 
 
 def speak(text: str) -> str:

@@ -14,6 +14,8 @@ from mathspeech.__main__ import main
         ("x^-1", "x to the power of negative 1"),
         ("3/4", "3 over 4"),
         ("2.5 * 4", "2 point 5 times 4"),
+        ("3.14", "3 point 1 4"),
+        ("10.05 - 2", "10 point 0 5 minus 2"),
         ("(x+1)(x-1)", "open bracket x plus 1 close bracket open bracket x minus 1 close bracket"),
         ("sqrt(2)", "the square root of 2"),
         ("sqrt(x+1)", "the square root of x plus 1 end root"),
