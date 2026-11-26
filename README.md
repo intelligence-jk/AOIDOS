@@ -1,4 +1,6 @@
-# maths-to-speech
+# CALLIOPE: named after the Muse of eloquence: maths read aloud
+
+Formerly `maths-to-speech`.
 
 Turn a plain-text maths expression into words a narrator or a text-to-speech voice can read.
 
