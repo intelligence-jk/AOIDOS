@@ -1,4 +1,4 @@
-# DEMODOCUS: named after the blind bard of the Odyssey who told stories aloud: maths read aloud
+# AOIDOS: the Greek word for a singer of tales: maths read aloud
 
 Formerly `maths-to-speech`.
 
