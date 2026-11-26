@@ -1,4 +1,4 @@
-# CALLIOPE: named after the Muse of eloquence: maths read aloud
+# DEMODOCUS: named after the blind bard of the Odyssey who told stories aloud: maths read aloud
 
 Formerly `maths-to-speech`.
 
